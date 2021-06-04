@@ -29,4 +29,5 @@ Biji Token (BIJI) is an ERC-20 token deployed on Matic Network.
 - 4th Developer Transfer (1B BIJI): [explorer](https://polygon-explorer-mainnet.chainstacklabs.com/tx/0x83e7428b3d1b539b02493e58ffbac28b9d7f313a00e0ce2a6b2eca3525661a1e)
 - 5th Developer Transfer (1B BIJI): [explorer](https://polygon-explorer-mainnet.chainstacklabs.com/tx/0xfab8e02aeaea32175b1951006fbde452ca95dd622a056cbf8b290656d85d4a64)
 - 6th Developer Transfer (1B BIJI): [explorer](https://polygon-explorer-mainnet.chainstacklabs.com/tx/0x9b08e1592a889fa76c651ed9dc9d22f21bfac2ab8f644291e6a9d0e9c060a7ea)
+- 7th Developer Transfer (1B BIJI): [explorer](https://polygon-explorer-mainnet.chainstacklabs.com/tx/0x40ef5a2bd3cfd5888b3f9c3b19082f75e4a9e4995a5676654a4a4d80d1518185)
 - TBC
