@@ -10,6 +10,16 @@ Biji Token (BIJI) is an ERC-20 token deployed on Matic Network.
 * Genesis account: `0x29a10D2efb72B8C435745F8c5Cb4D1Ac2E700a22`
 * Born in June 4th, 2021
 
+## Wallet
+1. Install MetaMask on your mobile device or browser addon. [link](https://metamask.io/download.html)
+2. Add custom RPC network. In the Settings tab, you can fill the fields with these settings:
+    - Network Name: `Matic Mainnet`
+    - New RPC URL: `https://rpc-mainnet.maticvigil.com/`
+    - Chain ID: `137`
+    - Currency Symbol: `MATIC`
+    - Block Explorer URL: `https://explorer.matic.network/`
+3. Add token with this address: `0xbf82B5743497AebCE08AF4628f4a483763C940d4`
+
 ## Logs
 - Contract Address Details: [explorer](https://polygon-explorer-mainnet.chainstacklabs.com/address/0xbf82B5743497AebCE08AF4628f4a483763C940d4)
 - Token Minting (100B BIJI): [explorer](https://polygon-explorer-mainnet.chainstacklabs.com/tx/0xb0e07578a9c00671e997b90ccbc99ff1f070284f4437bf212deb3f551934031f)
