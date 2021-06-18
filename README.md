@@ -34,4 +34,6 @@ Biji Token (BIJI) is an ERC-20 token deployed on Matic Network.
   - #8 [explorer](https://polygonscan.com/tx/0x6713e73a496702c304bc722e9ac9cef911033d0d86fd70293046b680ee27e341)
   - #9 [explorer](https://polygonscan.com/tx/0xda8c45bda395eb9f223dc685cdf68190b85279fe01a05eee3c1550362e9cdabc)
   - #10 [explorer](https://polygonscan.com/tx/0xf881e35477b945d20844825ab538db251a2a22822a0637c49e3be316c066a770)
+- Approve BIJI For Trade On Quickswap: [explorer](https://polygonscan.com/tx/0xb32d17ff04ad44fc4b7e16cc79096d81db1708967f8bc0cdbc334edd6fa2be2f)
+- Quickswap Add Liquidity (10B BIJI, 10 MATIC): [explorer](https://polygonscan.com/tx/0x5a6c138a3bde2a12bbcec194df219a15861d54d3b68edc5b6cb7d84f0b607818)
 - TBC
