@@ -1,7 +1,10 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BijiToken/biji/main/assets/logo_128.png" width="128px" height="128px"/></p>
+  
 # What is Biji Token?
 Biji Token (BIJI) is an ERC-20 token deployed on Matic Network.
 
-## Key facts
+### Key facts
 * Token address: `0xbf82B5743497AebCE08AF4628f4a483763C940d4`
 * Max supply is: `100000000000.00`
 * Target distribution:
@@ -10,7 +13,7 @@ Biji Token (BIJI) is an ERC-20 token deployed on Matic Network.
 * Genesis account: `0x29a10D2efb72B8C435745F8c5Cb4D1Ac2E700a22`
 * Born in June 4th, 2021
 
-## Wallet
+### Wallet
 1. Install MetaMask on your mobile device or browser addon. [link](https://metamask.io/download.html)
 2. Add custom RPC network. In the Settings tab, you can fill the fields with these settings:
     - Network Name: `Matic Mainnet`
@@ -20,10 +23,13 @@ Biji Token (BIJI) is an ERC-20 token deployed on Matic Network.
     - Block Explorer URL: `https://polygonscan.com/`
 3. Add token with this address: `0xbf82B5743497AebCE08AF4628f4a483763C940d4`
 
-## Get BIJI
+### Get BIJI
 - Quickswap Exchange [link](https://quickswap.exchange/#/swap?outputCurrency=0xbf82b5743497aebce08af4628f4a483763c940d4)
 
-## Logs
+### Resources
+- [Biji website](https://bijitoken.github.io)
+
+### Logs
 - Contract Address Details: [explorer](https://polygonscan.com/address/0xbf82B5743497AebCE08AF4628f4a483763C940d4)
 - Contract Source Code Verified: [explorer](https://polygonscan.com/address/0xbf82b5743497aebce08af4628f4a483763c940d4#code)
 - Token Minting (100B BIJI): [explorer](https://polygonscan.com/tx/0xb0e07578a9c00671e997b90ccbc99ff1f070284f4437bf212deb3f551934031f)
