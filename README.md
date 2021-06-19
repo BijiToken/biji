@@ -20,6 +20,9 @@ Biji Token (BIJI) is an ERC-20 token deployed on Matic Network.
     - Block Explorer URL: `https://polygonscan.com/`
 3. Add token with this address: `0xbf82B5743497AebCE08AF4628f4a483763C940d4`
 
+## Get BIJI
+- Quickswap Exchange [link](https://quickswap.exchange/#/swap?outputCurrency=0xbf82b5743497aebce08af4628f4a483763c940d4)
+
 ## Logs
 - Contract Address Details: [explorer](https://polygonscan.com/address/0xbf82B5743497AebCE08AF4628f4a483763C940d4)
 - Contract Source Code Verified: [explorer](https://polygonscan.com/address/0xbf82b5743497aebce08af4628f4a483763c940d4#code)
