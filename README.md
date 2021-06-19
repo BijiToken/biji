@@ -25,6 +25,7 @@ Biji Token (BIJI) is an ERC-20 token deployed on Matic Network.
 
 ### Get BIJI
 - Quickswap Exchange [link](https://quickswap.exchange/#/swap?inputCurrency=MATIC&outputCurrency=0xbf82b5743497aebce08af4628f4a483763c940d4)
+- *(optional) You can also add a token list with this URL: `https://raw.githubusercontent.com/BijiToken/biji/main/quickswap-biji.tokenlist.json`*
 
 ### Resources
 - [Biji website](https://bijitoken.github.io)
