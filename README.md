@@ -28,10 +28,10 @@ Biji Token (BIJI) is an ERC-20 token deployed on Matic Network.
 
 ### Resources
 - [Biji website](https://bijitoken.github.io)
+- [Token Details](https://polygonscan.com/token/0xbf82B5743497AebCE08AF4628f4a483763C940d4) ([Holders](https://polygonscan.com/token/0xbf82B5743497AebCE08AF4628f4a483763C940d4#balances))
+- [Contract Address Details](https://polygonscan.com/address/0xbf82B5743497AebCE08AF4628f4a483763C940d4) ([Source Code Verified](https://polygonscan.com/address/0xbf82B5743497AebCE08AF4628f4a483763C940d4#code))
 
 ### Logs
-- Contract Address Details: [explorer](https://polygonscan.com/address/0xbf82B5743497AebCE08AF4628f4a483763C940d4)
-- Contract Source Code Verified: [explorer](https://polygonscan.com/address/0xbf82b5743497aebce08af4628f4a483763c940d4#code)
 - Token Minting (100B BIJI): [explorer](https://polygonscan.com/tx/0xb0e07578a9c00671e997b90ccbc99ff1f070284f4437bf212deb3f551934031f)
 - Developer (@1B BIJI):
   - #1 [explorer](https://polygonscan.com/tx/0x9a04c443a0b1115bae32cb32871bfb6cd48312ab943ea9675e8356969cd523b2)
